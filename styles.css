@@ -1,5 +1,13 @@
 * {
   box-sizing: border-box;
+  margin:0;
+
+}
+
+header {
+  text-align: center;
+  background-color: darkgray;
+  padding: 0.75vw;
 }
 
 form {
@@ -73,7 +81,7 @@ button[type="submit"]:hover {
 }
 
 #player-details-container{
-  background-color: darkgray;
+  background-color: bisque;
   text-align: center;
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
